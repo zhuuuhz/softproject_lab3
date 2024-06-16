@@ -1,0 +1,2 @@
+遍历节点: us guidance when we give up hope
+遍历边: ('us', 'guidance') ('guidance', 'when') ('when', 'we') ('we', 'give') ('give', 'up') ('up', 'hope') ('hope', 'we')
